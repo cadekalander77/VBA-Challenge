@@ -11,3 +11,4 @@ The results, as shown, are the stocks examined performed much better in 2017 tha
 As for the execution times for the script before and After the code refining, I did not personally see a significant change in run times. However, I am sure if this was used on a larger data set we would be able to see an improvement in times.
 
 ## Summary
+The advantages to refactoring code is making the code more user friendly as well as more effcient time and space wise. As for the disadvantages, it will obviously take a little more time to refactor the code, however it will be worth it especially on larger data sets. You can see within this refactor, the table is easier to read due to the color coding, however I did not see a significant chnage in run time.
